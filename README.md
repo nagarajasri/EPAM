@@ -1,2 +1,2 @@
 # EPAM
-welcome to pep program
+welcome to PEP program!
